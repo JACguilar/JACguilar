@@ -7,7 +7,8 @@ Estoy siguiendo una ruta de aprendizaje por medio de una plataforma en digital t
 
 
 🤔  Habilidades: JS / REACT / JS / HTML / CSS  
-🌱  Estoy aprendiendo https://platzi.com/@JAguilar/
+🌱  Estoy aprendiendo https://platzi.com/@JAguilar/ <br/>
+🧰  Portafolio pagina https://jacguilar.github.io/
 
 
 
